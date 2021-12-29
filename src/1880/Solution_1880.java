@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution_1880 {
     public static boolean isSumEqual(String firstWord, String secondWord, String targetWord) {
         int fl = firstWord.length();
         int sl = secondWord.length();
