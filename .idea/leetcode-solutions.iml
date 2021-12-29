@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/1880" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/1920" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/1929" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/771" isTestSource="false" />
     </content>
